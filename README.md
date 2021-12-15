@@ -22,4 +22,4 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
-# Static_pages-ra
+# Static_pages-rails
